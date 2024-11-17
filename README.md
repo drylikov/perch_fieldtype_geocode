@@ -1,4 +1,4 @@
-Perch Geocode Field Type
+Perch Geocode Field Type.
 ========================
 
 A Perch CMS field type for geocoding addresses.
